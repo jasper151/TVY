@@ -807,285 +807,6 @@
       }
     },
     {
-      "key": "玩偶",
-      "name": "玩偶 • 4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "木偶",
-      "name": "木偶 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "蜡笔",
-      "name": "蜡笔 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://tvpanpan.site",
-          "http://feimo.fun",
-          "http://xiaocgege.shop",
-          "http://www.xiaocgege.shop",
-          "https://www.xiaocge.fun"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "闪电",
-      "name": "闪电 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://shandian.blog"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "至臻",
-      "name": "至臻 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.mihdr.top"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "多多",
-      "name": "多多 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "欧哥",
-      "name": "欧哥 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "二小",
-      "name": "二小 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.2xiaopan.top",
-          "https://2xiaopan.top",
-          "https://www.erxiaozhan.top",
-          "https://www.2xiaozhan.top",
-          "https://wexwp.cc"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "鸭社",
-      "name": "鸭社 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://www.guangyashe.top"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "种子",
-      "name": "种子 • 4K",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://sidhub.cc",
-          "https://seeduck.cc",
-          "https://hubdog.cc",
-          "http://104.243.25.80"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "夸父",
-      "name": "夸父 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShareKF",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://www.kfzy.net"
-        ],
-        "cookie": "bbs_sid=qovfaruectri75sqq38blhqt7o; bbs_token=Bvf498_2FJNbnAe_2Fse39EweDe_2BlQnFYo4s_2FpFtyHueqcGKOssB"
-      },
-      "timeout": 60
-    },
-    {
-      "key": "123",
-      "name": "123 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare123",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "site": [
-          "https://123panfx.com",
-          "https://pan1.me"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "指南",
-      "name": "指南 • 4K",
-      "type": 3,
-      "api": "csp_4KZhinan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "移动",
-      "name": "移动 • 4K",
-      "type": 3,
-      "api": "csp_Yidong4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "人人",
-      "name": "人人 • 4K",
-      "type": 3,
-      "api": "csp_RenRen",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "即刻",
-      "name": "即刻 • 4K",
-      "type": 3,
-      "api": "csp_Jike",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60
-    },
-    {
-      "key": "双星",
-      "name": "双星 • 4K",
-      "type": 3,
-      "api": "csp_ShuangXing",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60
-    },
-    {
       "key": "七猫短剧",
       "name": "七猫 • 短剧",
       "type": 3,
@@ -1386,72 +1107,10 @@
       "ext": "https://qist.wyfc.qzz.io/json/DYG.json"
     },
     {
-      "key": "阿里云盘",
-      "name": "阿里 • 云盘",
-      "type": 3,
-      "api": "csp_PanAli",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "夸克网盘",
-      "name": "夸克 • 网盘",
-      "type": 3,
-      "api": "csp_PanQuark",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "UC网盘",
-      "name": "UC • 网盘",
-      "type": 3,
-      "api": "csp_PanUC",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "百度网盘",
-      "name": "百度 • 网盘",
-      "type": 3,
-      "api": "csp_PanBaidu",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
       "key": "聚合",
       "name": "聚合 • 搜索",
       "type": 3,
       "api": "csp_JuheSo",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "盘搜",
-      "name": "盘搜 • 搜索",
-      "type": 3,
-      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1977,32 +1636,6 @@
       ]
     },
     {
-      "key": "百度",
-      "name": "百度",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ],
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
       "key": "暴風",
       "name": "影视 | 暴風[直连]",
       "type": 1,
@@ -2375,128 +2008,6 @@
       "changeable": 0
     },
     {
-      "key": "PushShare",
-      "name": "资源分享",
-      "type": 3,
-      "api": "csp_PushShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/pushshare.txt$$$db$$$1",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "PikPakShare",
-      "name": "PikPak分享",
-      "type": 3,
-      "api": "csp_PikPakShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/pikpakclass.json$$$https://qist.wyfc.qzz.io/json/pikpakclass.json.db.gz"
-    },
-    {
-      "key": "AliShare",
-      "name": "影视分享",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/alishare.txt$$$db$$$1"
-    },
-    {
-      "key": "AliShareEBook",
-      "name": "书籍分享",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/alishare.ebook.txt$$$db$$$1",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "ThunderShare",
-      "name": "迅雷分享",
-      "type": 3,
-      "api": "csp_ThunderShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/thundershare.txt"
-    },
-    {
-      "key": "QuarkShare",
-      "name": "夸克分享",
-      "type": 3,
-      "api": "csp_QuarkShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/quarkshare.txt"
-    },
-    {
-      "key": "115Share",
-      "name": "115云盘分享",
-      "type": 3,
-      "api": "csp_P115Share",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/115share.txt$$$db$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
-      "key": "UCShare",
-      "name": "UC云盘分享",
-      "type": 3,
-      "api": "csp_UCShare",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/ucshare.txt$$$db$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
-      "key": "SambaShare",
-      "name": "Samba分享",
-      "type": 3,
-      "api": "csp_SambaShare",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$https://qist.wyfc.qzz.io/json/sambashare.txt"
-    },
-    {
       "key": "追剧",
       "name": "追剧",
       "type": 3,
@@ -2664,14 +2175,6 @@
       "timeout": 30
     },
     {
-      "key": "YunPan",
-      "name": "云盘",
-      "type": 3,
-      "api": "csp_YunPan",
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$null$$$proxy$$$1"
-    },
-    {
       "key": "YingSo",
       "name": "影搜",
       "type": 3,
@@ -2717,17 +2220,6 @@
       "filterable": 1,
       "timeout": 30,
       "ext": "https://qist.wyfc.qzz.io/lib/token.json"
-    },
-    {
-      "key": "YunPanOne",
-      "name": "云盘One",
-      "type": 3,
-      "api": "csp_YunPanOne",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json$$$proxy$$$1"
     },
     {
       "key": "Gitcafe",
@@ -2798,28 +2290,6 @@
       "timeout": 30
     },
     {
-      "key": "Funletu",
-      "name": "趣盘搜",
-      "type": 3,
-      "api": "csp_Funletu",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json"
-    },
-    {
-      "key": "QuarkPanso",
-      "name": "夸克盘搜",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "https://qist.wyfc.qzz.io/lib/token.json"
-    },
-    {
       "key": "小白",
       "name": "小白",
       "type": 3,
@@ -2840,18 +2310,6 @@
       "filterable": 1,
       "ext": "https://qist.wyfc.qzz.io/XBPQ/bttt.json",
       "jar": "https://qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-    },
-    {
-      "key": "布谷tv",
-      "name": "布谷4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "timeout": 60,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-      "ext": "https://qist.wyfc.qzz.io/XBPQ/布谷4K.json"
     },
     {
       "key": "haokongbu",
@@ -2983,18 +2441,6 @@
       "api": "csp_XBPQ",
       "jar": "https://qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
       "ext": "https://qist.wyfc.qzz.io/XBPQ/评书.json"
-    },
-    {
-      "key": "drpy_js_4KHDR",
-      "name": "4KHDR[js]",
-      "type": 3,
-      "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "ext": "https://qist.wyfc.qzz.io/js/4khdr.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
     },
     {
       "key": "drpy_js_MP4US",
@@ -3143,26 +2589,6 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_愛盤搜",
-      "name": "爱盘搜[js]",
-      "type": 3,
-      "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "ext": "https://qist.wyfc.qzz.io/js/aipanso.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
-      "key": "drpy_js_趣盤搜",
-      "name": "趣盘搜[js]",
-      "type": 3,
-      "api": "https://qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "ext": "https://qist.wyfc.qzz.io/js/funletu.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30
-    },
-    {
       "key": "drpy_js_meow",
       "name": "meow搜[js]",
       "type": 3,
@@ -3171,24 +2597,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
-    },
-    {
-      "key": "AList",
-      "name": "网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://qist.wyfc.qzz.io/json/alist.json"
-    },
-    {
-      "key": "WebDAV",
-      "name": "云盘",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://qist.wyfc.qzz.io/json/webdav.json"
     },
     {
       "key": "豆",
@@ -3550,19 +2958,6 @@
       }
     },
     {
-      "key": "Aliso",
-      "name": "🙀盘搜┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "YiSo",
       "name": "😹易搜┃阿狸",
       "type": 3,
@@ -3728,21 +3123,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "MDrive",
-      "name": "🗂我的云盘┃我配置",
-      "type": 3,
-      "api": "csp_MyDriveGuard",
-      "changeable": 0,
-      "indexs": 0,
-      "searchable": 1,
-      "style": {
-        "type": "oval"
-      },
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
     },
     {
       "key": "MTV1",
@@ -3936,17 +3316,6 @@
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       }
-    },
-    {
-      "key": "csp_AList",
-      "name": "AList┃网盘",
-      "type": "3",
-      "api": "csp_AList",
-      "searchable": "0",
-      "quickSearch": "0",
-      "filterable": "1",
-      "changeable": 0,
-      "ext": "https://qist.wyfc.qzz.io/json/alist.json"
     },
     {
       "key": "drpy_js_我的哔哩",
