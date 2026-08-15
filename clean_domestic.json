@@ -657,53 +657,6 @@
       }
     },
     {
-      "key": "七猫短剧",
-      "name": "七猫 • 短剧",
-      "type": 3,
-      "api": "csp_QimaoDJ",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "河马短剧",
-      "name": "河马 • 短剧",
-      "type": 3,
-      "api": "csp_HemaDJ",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "围观短剧",
-      "name": "围观 • 短剧",
-      "type": 3,
-      "api": "csp_WeiguanDJ",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "好看短剧",
-      "name": "好看 • 短剧",
-      "type": 3,
-      "api": "csp_HaokanDJ",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "星芽短剧",
-      "name": "星芽 • 短剧",
-      "type": 3,
-      "api": "csp_XingyaDJ",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "果果短剧",
-      "name": "果果 • 短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
-        "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
-      }
-    },
-    {
       "key": "云播影视",
       "name": "云播 • 影视",
       "type": 3,
@@ -1039,18 +992,6 @@
       "name": "爱听 • 音乐",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/py/爱听音乐.py"
-    },
-    {
-      "key": "网络直播",
-      "name": "网络 • 直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/py/WLZB.py"
-    },
-    {
-      "key": "哔哩直播",
-      "name": "哔哩 • 直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/py/BLZB.py"
     },
     {
       "key": "急救教学",
@@ -1478,24 +1419,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/bili.json",
-        "cookie": ""
-      }
-    },
-    {
       "key": "FirstAid",
       "name": "急救 ",
       "type": 3,
@@ -1507,20 +1430,6 @@
         "type": "rect",
         "ratio": 3.8
       }
-    },
-    {
-      "key": "lf_js_lf_live",
-      "name": "直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/lf_live_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/lf_live.txt"
     },
     {
       "key": "Local",
@@ -1556,17 +1465,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "310直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/310直播.js"
     },
     {
       "key": "csp_XPath_企鹅体育",
@@ -1971,14 +1869,6 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
     },
     {
-      "key": "XBPQ_文才",
-      "name": "文才",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/文才.json"
-    },
-    {
       "key": "XBPQ_BaiPiao",
       "name": "白嫖影视",
       "type": 3,
@@ -2198,16 +2088,6 @@
       "name": "🚀叨观荐影┃预告片",
       "type": 3,
       "api": "csp_YGPGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "alllive",
-      "name": "📽️一直播┃直播",
-      "type": 3,
-      "api": "csp_AllliveGuard",
-      "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -2571,18 +2451,6 @@
       "changeable": 1
     },
     {
-      "key": "bili_open",
-      "name": "哔哩貓",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/cat/js/bili_open.js",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
-        "cookie": ""
-      }
-    },
-    {
       "key": "JustLive",
       "name": "JustLive",
       "type": 3,
@@ -2739,22 +2607,6 @@
       "changeable": 0
     },
     {
-      "key": "虎牙js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/FTY/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/FTY/虎牙.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "BpanSo",
       "name": "🐞盘他┃嘟嘟",
       "type": 3,
@@ -2775,42 +2627,6 @@
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       }
-    },
-    {
-      "key": "drpy_js_JustLive",
-      "name": "直播┃JustLive[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/JustLive.js"
-    },
-    {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播┃斗鱼[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/斗鱼直播.js"
-    },
-    {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播┃虎牙[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/虎牙直播.js"
     },
     {
       "key": "drpy_js_评书随身听",
@@ -2890,20 +2706,6 @@
       "filterable": 1,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/lf_p2p2_min.js",
       "timeout": 30
-    },
-    {
-      "key": "lf_js_lf_live",
-      "name": "电视 | 直播[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/lf_live_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/lf_live.txt"
     },
     {
       "key": "FirstAid",
@@ -3597,42 +3399,6 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播 | 斗鱼[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/斗鱼直播.js"
-    },
-    {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播 | 虎牙[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/虎牙直播.js"
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "体育 | 310直播[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/310直播.js"
-    },
-    {
       "key": "drpy_js_88看球",
       "name": "体育 | 88看球[js]",
       "type": 3,
@@ -3643,18 +3409,6 @@
         "ratio": 1
       },
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/88看球.js"
-    },
-    {
-      "key": "drpy_js_JRKAN直播",
-      "name": "体育 | JRKAN直播[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/JRKAN直播.js"
     },
     {
       "key": "drpy_js_抓饭体育",
@@ -4701,77 +4455,5 @@
       }
     }
   ],
-  "lives": [
-    {
-      "name": "ipv6",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/tvboxtv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "初秋语•综合",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/list.txt",
-      "playerType": 2,
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "PG•油管",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/yo21.txt",
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "https://file.icve.com.cn/file_doc/946/41/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "https://file.icve.com.cn/file_doc/254/346/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "https://file.icve.com.cn/file_doc/178/700/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "初秋语•ipv4",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/list.txt",
-      "playerType": 2,
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "初秋语•电台",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/radio.txt",
-      "playerType": 1
-    }
-  ]
+  "lives": []
 }
