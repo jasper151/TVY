@@ -1,5 +1,5 @@
 {
- "spider": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/spider.jar;md5;aa23687f6d958550651c1d49f3c2651b",
+ "spider": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/spider.jar;md5;aa23687f6d958550651c1d49f3c2651b",
  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
  "doh": [
   {
@@ -1168,7 +1168,7 @@
    "searchable": 0,
    "changeable": 0,
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/market.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/pg.jar"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/pg.jar"
   },
   {
    "key": "bb",
@@ -1589,7 +1589,7 @@
    "api": "csp_XBPQ",
    "playerType": 1,
    "timeout": 60,
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/小白.json"
   },
   {
@@ -1602,7 +1602,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/bttt.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "haokongbu",
@@ -1614,7 +1614,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/好恐怖.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "圣城1080",
@@ -1626,7 +1626,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/圣城1080.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "秋霞",
@@ -1638,7 +1638,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/秋霞.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "VidHub",
@@ -1650,7 +1650,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/VidHub.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "rarbt",
@@ -1662,14 +1662,14 @@
    "filterable": 1,
    "api": "csp_XBPQ",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/rarbt.json",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "XBPQ_BaiPiao",
    "name": "白嫖影视",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/白嫖影视.json"
   },
   {
@@ -1677,13 +1677,13 @@
    "name": "黑狐影院",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/黑狐影院.json"
   },
   {
    "key": "XBPQ_电影先生",
    "name": "电影先生",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/电影先生.json"
@@ -1696,7 +1696,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/麻衣影院.json"
   },
   {
@@ -1710,7 +1710,7 @@
    },
    "quickSearch": 0,
    "api": "csp_XBPQ",
-   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/评书.json"
   },
   {
