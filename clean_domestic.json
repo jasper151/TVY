@@ -1,5 +1,5 @@
 {
- "spider": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/spider.jar;md5;aa23687f6d958550651c1d49f3c2651b",
+ "spider": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/spider.jar;md5;aa23687f6d958550651c1d49f3c2651b",
  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
  "doh": [
   {
@@ -473,8 +473,8 @@
    "key": "drpy_js_豆瓣",
    "name": "搜索 | 豆瓣[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/drpy.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/drpy.js",
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0
@@ -509,8 +509,8 @@
    "key": "新闪雷",
    "name": "新闪雷┃MP4",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/新闪雷.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/新闪雷.js",
    "header": {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
    }
@@ -536,8 +536,8 @@
    "key": "cupfox_in",
    "name": "茶杯狐┃cupfox.in",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/茶杯狐.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/茶杯狐.js",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
@@ -550,7 +550,7 @@
    "key": "italkbbtv",
    "name": "ITalkBB｜外",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/py/ITalkBBTV.py",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/py/ITalkBBTV.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
@@ -565,7 +565,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/奇乐.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/奇乐.json",
    "header": {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
    }
@@ -759,7 +759,7 @@
    "name": "剧圈 • 影视",
    "type": 3,
    "api": "csp_XYQHiker",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/JQYS.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/JQYS.json"
   },
   {
    "key": "1905",
@@ -778,7 +778,7 @@
    "style": {
     "type": "list"
    },
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/DLXFS.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/DLXFS.json"
   },
   {
    "key": "荐片",
@@ -833,7 +833,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/DYG.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/DYG.json"
   },
   {
    "key": "聚合",
@@ -991,7 +991,7 @@
    "key": "爱听音乐",
    "name": "爱听 • 音乐",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/py/爱听音乐.py"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/py/爱听音乐.py"
   },
   {
    "key": "急救教学",
@@ -1120,36 +1120,36 @@
    "key": "drpy_js_蜻蜓FM",
    "name": "广播 | 蜻蜓FM[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/蜻蜓FM.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/蜻蜓FM.js"
   },
   {
    "key": "drpy_js_播客",
    "name": "聚合 | 播客[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/播客.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/播客.js"
   },
   {
    "key": "drpy_js_酷6网",
    "name": "聚合 | 酷6网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/酷6网.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/酷6网.js"
   },
   {
    "key": "drpy_js_网易公版影像",
    "name": "聚合 | 网易公版[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
    "style": {
     "type": "rect",
     "ratio": 1.597
    },
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/网易公版影像.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/网易公版影像.js"
   },
   {
    "key": "push_agent",
@@ -1167,22 +1167,22 @@
    "api": "csp_Market",
    "searchable": 0,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/market.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/pg.jar"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/market.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/pg.jar"
   },
   {
    "key": "bb",
    "name": "配置接口完全免费",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/drpy.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/drpy.js"
   },
   {
    "key": "cc",
    "name": "请勿相信视频中任何广告",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/drpy.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/drpy.js"
   },
   {
    "key": "豆瓣",
@@ -1192,15 +1192,15 @@
    "indexs": 1,
    "searchable": 0,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/douban.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/douban.json"
   },
   {
    "key": "drpy_js_磁力熊搜索",
    "name": "熊搜",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "indexs": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/cilixiong.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/cilixiong.js",
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 1
@@ -1253,8 +1253,8 @@
    "key": "88js",
    "name": "88看球",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/88看球.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/88看球.js",
    "style": {
     "type": "list"
    },
@@ -1274,7 +1274,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/企鹅直播.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/企鹅直播.json"
   },
   {
    "key": "酷狗",
@@ -1333,7 +1333,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/jianpian.json$$$1",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/jianpian.json$$$1",
    "timeout": 60
   },
   {
@@ -1345,7 +1345,7 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 60,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$null$$$proxy$$$1"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$null$$$proxy$$$1"
   },
   {
    "key": "Ikanbot",
@@ -1455,14 +1455,14 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 30,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$https://www.91panta.cn/$$$null$$$1"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$https://www.91panta.cn/$$$null$$$1"
   },
   {
    "key": "团长资源",
    "name": "团长",
    "type": 3,
    "api": "csp_TZFile",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1473,7 +1473,7 @@
    "type": 3,
    "api": "csp_YingSo",
    "timeout": 60,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$1"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$1"
   },
   {
    "key": "盘友圈",
@@ -1481,7 +1481,7 @@
    "type": 3,
    "api": "csp_Panyq",
    "timeout": 60,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json"
   },
   {
    "key": "csp_HunHePan",
@@ -1493,7 +1493,7 @@
    "changeable": 1,
    "filterable": 0,
    "timeout": 60,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$null$$$1"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$null$$$1"
   },
   {
    "key": "秒搜",
@@ -1501,7 +1501,7 @@
    "type": 3,
    "api": "csp_MiaoSou",
    "timeout": 30,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json"
   },
   {
    "key": "YunSo",
@@ -1512,7 +1512,7 @@
    "changeable": 1,
    "filterable": 1,
    "timeout": 30,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json"
   },
   {
    "key": "Gitcafe",
@@ -1522,7 +1522,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json",
    "timeout": 30
   },
   {
@@ -1533,7 +1533,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json",
    "timeout": 30
   },
   {
@@ -1543,7 +1543,7 @@
    "api": "csp_Dovx",
    "searchable": 1,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json",
    "timeout": 30
   },
   {
@@ -1553,7 +1553,7 @@
    "api": "csp_PanSearch",
    "searchable": 1,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json",
    "timeout": 30
   },
   {
@@ -1563,7 +1563,7 @@
    "api": "csp_Zhaozy",
    "searchable": 1,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$fanty$$$qqq111",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$fanty$$$qqq111",
    "timeout": 30
   },
   {
@@ -1571,7 +1571,7 @@
    "name": "易搜",
    "type": 3,
    "api": "csp_YiSo",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
    "timeout": 30
   },
   {
@@ -1579,7 +1579,7 @@
    "name": "云搜",
    "type": 3,
    "api": "csp_UpYun",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/token.json",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/token.json",
    "timeout": 30
   },
   {
@@ -1589,8 +1589,8 @@
    "api": "csp_XBPQ",
    "playerType": 1,
    "timeout": 60,
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/小白.json"
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/小白.json"
   },
   {
    "key": "BT天堂",
@@ -1601,8 +1601,8 @@
    "timeout": 60,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/bttt.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/bttt.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "haokongbu",
@@ -1613,8 +1613,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/好恐怖.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/好恐怖.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "圣城1080",
@@ -1625,8 +1625,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/圣城1080.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/圣城1080.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "秋霞",
@@ -1637,8 +1637,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/秋霞.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/秋霞.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "VidHub",
@@ -1649,8 +1649,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/VidHub.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/VidHub.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "rarbt",
@@ -1661,32 +1661,32 @@
    "quickSearch": 1,
    "filterable": 1,
    "api": "csp_XBPQ",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/rarbt.json",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/rarbt.json",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
   },
   {
    "key": "XBPQ_BaiPiao",
    "name": "白嫖影视",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/白嫖影视.json"
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/白嫖影视.json"
   },
   {
    "key": "XBPQ_黑狐影院",
    "name": "黑狐影院",
    "type": 3,
    "api": "csp_XBPQ",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/黑狐影院.json"
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/黑狐影院.json"
   },
   {
    "key": "XBPQ_电影先生",
    "name": "电影先生",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
    "type": 3,
    "api": "csp_XBPQ",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/电影先生.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/电影先生.json"
   },
   {
    "key": "XBPQ_麻衣影院",
@@ -1696,8 +1696,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/麻衣影院.json"
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/麻衣影院.json"
   },
   {
    "key": "评书",
@@ -1710,15 +1710,15 @@
    },
    "quickSearch": 0,
    "api": "csp_XBPQ",
-   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/XBPQ/评书.json"
+   "jar": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/XBPQ/评书.json"
   },
   {
    "key": "drpy_js_MP4US",
    "name": "MP4电影[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/mp4us.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/mp4us.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -1729,8 +1729,8 @@
    "key": "drpy_js_电影港",
    "name": "电影港[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/dygang.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/dygang.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -1741,8 +1741,8 @@
    "key": "drpy_js_kuba",
    "name": "酷吧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/kuba.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/kuba.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1751,8 +1751,8 @@
    "key": "drpy_js_xb6v",
    "name": "新版6v[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/xb6v.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/xb6v.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -1763,8 +1763,8 @@
    "key": "drpy_js_美剧迷p",
    "name": "美剧迷[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/meijumi.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/meijumi.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1773,8 +1773,8 @@
    "key": "drpy_js_ddys",
    "name": "低端[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/ddys.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/ddys.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1783,8 +1783,8 @@
    "key": "drpy_js_libvio",
    "name": "libvio[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/libvio.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/libvio.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1793,8 +1793,8 @@
    "key": "drpy_js_tzfile",
    "name": "团长[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/tzfile.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/tzfile.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1803,8 +1803,8 @@
    "key": "drpy_js_dydhhy",
    "name": "dydhhy[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/dydhhy.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/dydhhy.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1813,8 +1813,8 @@
    "key": "drpy_js_97tvs",
    "name": "97tvs[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/97tvs.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/97tvs.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1823,8 +1823,8 @@
    "key": "drpy_js_rrdyw",
    "name": "rrdyw[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/rrdyw.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/rrdyw.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1833,8 +1833,8 @@
    "key": "drpy_js_校长影视",
    "name": "校长[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/xzys.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/xzys.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1843,8 +1843,8 @@
    "key": "drpy_js_yyetsp",
    "name": "人人搜[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/yyets.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/yyets.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1853,8 +1853,8 @@
    "key": "drpy_js_奇妙搜[夸]",
    "name": "奇妙搜[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/qimiao.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/qimiao.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -1863,8 +1863,8 @@
    "key": "drpy_js_meow",
    "name": "meow搜[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/meow.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/meow.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -2227,7 +2227,7 @@
    "api": "csp_Market",
    "searchable": 0,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/market.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/market.json"
   },
   {
    "key": "賤賤",
@@ -2236,7 +2236,7 @@
    "api": "csp_Jianpian",
    "searchable": 1,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/json/jianpian.json"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/json/jianpian.json"
   },
   {
    "key": "異界",
@@ -2418,8 +2418,8 @@
    "key": "闪雷",
    "name": "闪雷┃MP4",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/678.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/678.js",
    "header": {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
    }
@@ -2428,45 +2428,45 @@
    "key": "drpy_js_评书随身听",
    "name": "评书┃评书随身听[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/评书随身听.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/评书随身听.js"
   },
   {
    "key": "drpy_js_好趣网",
    "name": "电视┃好趣网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
    "style": {
     "type": "oval",
     "ratio": 1.1
    },
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/好趣网.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/好趣网.js"
   },
   {
    "key": "drpy_js_广播迷FM",
    "name": "广播┃广播迷FM[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/广播迷FM.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/广播迷FM.js"
   },
   {
    "key": "drpy_js_短视频",
    "name": "聚合┃短视频[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/qist.wyfc.qzz.io/js/短视频.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/qist.wyfc.qzz.io/js/短视频.js"
   },
   {
    "key": "drpy_js_磁力熊搜索",
    "name": "搜索 | 磁力熊[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "indexs": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/cilixiong.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/cilixiong.js",
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 1
@@ -2479,17 +2479,17 @@
    "changeable": 1,
    "quickSearch": 0,
    "filterable": 0,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/lf_search3_min.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/lf_search3_min.js"
   },
   {
    "key": "drpy_js_荐片",
    "name": "影视 | 荐片[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/荐片.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/荐片.js",
    "timeout": 30
   },
   {
@@ -2500,7 +2500,7 @@
    "changeable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/lf_p2p2_min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/lf_p2p2_min.js",
    "timeout": 30
   },
   {
@@ -2520,526 +2520,526 @@
    "key": "drpy_js_酷云77",
    "name": "影视 | 酷云77[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/酷云77.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/酷云77.js"
   },
   {
    "key": "drpy_js_快看",
    "name": "影视 | 快看[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/快看.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/快看.js"
   },
   {
    "key": "drpy_js_爱看",
    "name": "影视 | 爱看[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/爱看.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/爱看.js"
   },
   {
    "key": "drpy_js_低端",
    "name": "影视 | 低端[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/ddys_d.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/ddys_d.js"
   },
   {
    "key": "drpy_js_南瓜影视",
    "name": "影视 | 南瓜影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/南瓜影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/南瓜影视.js"
   },
   {
    "key": "drpy_js_Auete",
    "name": "影视 | Auete[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/Auete.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/Auete.js"
   },
   {
    "key": "drpy_js_LIBVIO",
    "name": "影视 | LIBVIO[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/LIBVIO.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/LIBVIO.js"
   },
   {
    "key": "drpy_js_voflix",
    "name": "影视 | voflix[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/voflix.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/voflix.js"
   },
   {
    "key": "drpy_js_两个BT",
    "name": "影视 | 两个BT[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/两个BT.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/两个BT.js"
   },
   {
    "key": "drpy_js_量子影视",
    "name": "影视 | 量子影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/量子影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/量子影视.js"
   },
   {
    "key": "drpy_js_农民",
    "name": "影视 | 农民影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/农民影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/农民影视.js"
   },
   {
    "key": "drpy_js_在线之家",
    "name": "影视 | 在线之家[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/在线之家.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/在线之家.js"
   },
   {
    "key": "drpy_js_量子资源",
    "name": "影视 | 量子资源[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/量子资源.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/量子资源.js"
   },
   {
    "key": "drpy_js_369影视",
    "name": "影视 | 369影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/369影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/369影视.js"
   },
   {
    "key": "drpy_js_热播库",
    "name": "影视 | 热播库[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/热播库.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/热播库.js"
   },
   {
    "key": "drpy_js_蛋蛋剧",
    "name": "影视 | 蛋蛋剧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/蛋蛋剧.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/蛋蛋剧.js"
   },
   {
    "key": "drpy_js_B站影视",
    "name": "影视 | B站影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/B站影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/B站影视.js"
   },
   {
    "key": "drpy_js_凌云影视",
    "name": "影视 | 凌云影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/凌云影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/凌云影视.js"
   },
   {
    "key": "drpy_js_孜然影视",
    "name": "影视 | 孜然影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/孜然影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/孜然影视.js"
   },
   {
    "key": "drpy_js_我爱跟剧",
    "name": "影视 | 我爱跟剧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/我爱跟剧.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/我爱跟剧.js"
   },
   {
    "key": "drpy_js_干饭影视",
    "name": "影视 | 干饭影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/干饭影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/干饭影视.js"
   },
   {
    "key": "drpy_js_秋霞影视",
    "name": "影视 | 秋霞影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/秋霞影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/秋霞影视.js"
   },
   {
    "key": "drpy_js_阿布影院",
    "name": "影视 | 阿布影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/阿布影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/阿布影院.js"
   },
   {
    "key": "drpy_js_电影先生",
    "name": "影视 | 电影先生[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/电影先生.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/电影先生.js"
   },
   {
    "key": "drpy_js_落攻阁影视",
    "name": "影视 | 落攻阁影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/落攻阁影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/落攻阁影视.js"
   },
   {
    "key": "drpy_js_69美剧",
    "name": "影视 | 69美剧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/69美剧.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/69美剧.js"
   },
   {
    "key": "drpy_js_兄弟影视",
    "name": "影视 | 兄弟影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/兄弟影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/兄弟影视.js"
   },
   {
    "key": "drpy_js_爱迪影视",
    "name": "影视 | 爱迪影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/爱迪影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/爱迪影视.js"
   },
   {
    "key": "drpy_js_539影视",
    "name": "影视 | 539影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/539影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/539影视.js"
   },
   {
    "key": "drpy_js_333影视",
    "name": "影视 | 333影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/333影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/333影视.js"
   },
   {
    "key": "drpy_js_996影视",
    "name": "影视 | 996影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/996影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/996影视.js"
   },
   {
    "key": "drpy_js_188影视",
    "name": "影视 | 188影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/188影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/188影视.js"
   },
   {
    "key": "drpy_js_哔嘀影视",
    "name": "影视 | 哔嘀影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/哔嘀影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/哔嘀影视.js"
   },
   {
    "key": "drpy_js_7喜影院",
    "name": "影视 | 7喜影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/7喜影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/7喜影院.js"
   },
   {
    "key": "drpy_js_18哈",
    "name": "影视 | 18哈[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/18哈.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/18哈.js"
   },
   {
    "key": "drpy_js_567电影院",
    "name": "影视 | 567电影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/567电影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/567电影院.js"
   },
   {
    "key": "drpy_js_KOK影院",
    "name": "影视 | KOK影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/KOK影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/KOK影院.js"
   },
   {
    "key": "drpy_js_TVB云播",
    "name": "影视 | TVB云播[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/TVB云播.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/TVB云播.js"
   },
   {
    "key": "drpy_js_UrleBird[飞]",
    "name": "影视 | UrleBird[飞][js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/UrleBird[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/UrleBird[飞].js"
   },
   {
    "key": "drpy_js_爱看影院",
    "name": "影视 | 爱看影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/爱看影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/爱看影院.js"
   },
   {
    "key": "drpy_js_北川影视",
    "name": "影视 | 北川影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/北川影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/北川影视.js"
   },
   {
    "key": "drpy_js_尘落影视",
    "name": "影视 | 尘落影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/尘落影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/尘落影视.js"
   },
   {
    "key": "drpy_js_达达龟",
    "name": "影视 | 达达龟[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/达达龟.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/达达龟.js"
   },
   {
    "key": "drpy_js_蛋蛋赞",
    "name": "影视 | 蛋蛋赞[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/蛋蛋赞.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/蛋蛋赞.js"
   },
   {
    "key": "drpy_js_多瑙影视",
    "name": "影视 | 多瑙影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/多瑙影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/多瑙影视.js"
   },
   {
    "key": "drpy_js_剧迷su",
    "name": "影视 | 剧迷su[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/剧迷su.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/剧迷su.js"
   },
   {
    "key": "drpy_js_看韩剧",
    "name": "影视 | 看韩剧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/看韩剧.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/看韩剧.js"
   },
   {
    "key": "drpy_js_看了么",
    "name": "影视 | 看了么[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/看了么.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/看了么.js"
   },
   {
    "key": "drpy_js_蓝光影院",
    "name": "影视 | 蓝光影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/蓝光影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/蓝光影院.js"
   },
   {
    "key": "drpy_js_首播影院",
    "name": "影视 | 首播影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/首播影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/首播影院.js"
   },
   {
    "key": "drpy_js_小白菜电影",
    "name": "影视 | 小白菜电影[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/小白菜电影.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/小白菜电影.js"
   },
   {
    "key": "drpy_js_影视工场",
    "name": "影视 | 影视工场[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/影视工场.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/影视工场.js"
   },
   {
    "key": "drpy_js_影视之家[V2]",
    "name": "影视 | 影视之家[V2][js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/影视之家[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/影视之家[V2].js"
   },
   {
    "key": "drpy_js_悠久影院",
    "name": "影视 | 悠久影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/悠久影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/悠久影院.js"
   },
   {
    "key": "drpy_js_中国人线上看",
    "name": "影视 | 中国人线上看[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/中国人线上看.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/中国人线上看.js"
   },
   {
    "key": "drpy_js_555电影[V2]",
    "name": "影视 | 555电影[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/555电影[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/555电影[V2].js"
   },
   {
    "key": "drpy_js_69美剧[V2]",
    "name": "影视 | 69美剧[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/69美剧[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/69美剧[V2].js"
   },
   {
    "key": "drpy_js_UM电影[V2]",
    "name": "影视 | UM电影[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/UM电影[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/UM电影[V2].js"
   },
   {
    "key": "drpy_js_爱迪[V2]",
    "name": "影视 | 爱迪[V2][js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/爱迪[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/爱迪[V2].js"
   },
   {
    "key": "drpy_js_宝片[V2]",
    "name": "影视 | 宝片[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/宝片[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/宝片[V2].js"
   },
   {
    "key": "drpy_js_刺桐[V2]",
    "name": "影视 | 刺桐[V2][js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/刺桐[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/刺桐[V2].js"
   },
   {
    "key": "drpy_js_咕噜[V2]",
    "name": "影视 | 咕噜[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/咕噜[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/咕噜[V2].js"
   },
   {
    "key": "drpy_js_吼吼[V2]",
    "name": "影视 | 吼吼[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/吼吼[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/吼吼[V2].js"
   },
   {
    "key": "drpy_js_曲奇影视[V2]",
    "name": "影视 | 曲奇影视[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/曲奇影视[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/曲奇影视[V2].js"
   },
   {
    "key": "drpy_js_影探[V2]",
    "name": "影视 | 影探[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/影探[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/影探[V2].js"
   },
   {
    "key": "drpy_js_北极狐[V2]",
    "name": "影视 | 北极狐[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/北极狐[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/北极狐[V2].js"
   },
   {
    "key": "drpy_js_大米星球[V2]",
    "name": "影视 | 大米星球[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/大米星球[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/大米星球[V2].js"
   },
   {
    "key": "drpy_js_奈飞狗[V2]",
    "name": "影视 | 奈飞狗[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/奈飞狗[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/奈飞狗[V2].js"
   },
   {
    "key": "drpy_js_思古影视[V2]",
    "name": "影视 | 思古影视[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/思古影视[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/思古影视[V2].js"
   },
   {
    "key": "drpy_js_映迷[V2]",
    "name": "影视 | 映迷[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/映迷[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/映迷[V2].js"
   },
   {
    "key": "drpy_js_美益达[V2]",
    "name": "影视 | 美益达[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/美益达[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/美益达[V2].js"
   },
   {
    "key": "drpy_js_落攻阁影视[V2]",
    "name": "影视 | 落攻阁影视[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/落攻阁影视[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/落攻阁影视[V2].js"
   },
   {
    "key": "drpy_js_路人甲[V2]",
    "name": "影视 | 路人甲[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/路人甲[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/路人甲[V2].js"
   },
   {
    "key": "drpy_js_鑫鑫[V2]",
    "name": "影视 | 鑫鑫[V2]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/鑫鑫[V2].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/鑫鑫[V2].js"
   },
   {
    "key": "drpy_js_极影网",
    "name": "磁力 | 极影网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/jiyingw.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/jiyingw.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -3050,8 +3050,8 @@
    "key": "drpy_js_MP4US",
    "name": "磁力 | MP4电影[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/mp4us.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/mp4us.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -3062,8 +3062,8 @@
    "key": "drpy_js_电影港",
    "name": "磁力 | 电影港[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/dygang.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/dygang.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -3074,8 +3074,8 @@
    "key": "drpy_js_kuba",
    "name": "磁力 | 酷吧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/kuba.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/kuba.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3084,8 +3084,8 @@
    "key": "drpy_js_xb6v",
    "name": "磁力 | 新版6v[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/xb6v.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/xb6v.js",
    "playerType": "1",
    "searchable": 1,
    "quickSearch": 1,
@@ -3096,8 +3096,8 @@
    "key": "drpy_js_美剧迷",
    "name": "磁力 | 美剧迷[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/meijumi.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/meijumi.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3106,8 +3106,8 @@
    "key": "drpy_js_ddys",
    "name": "影视 | 低端影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/ddys.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/ddys.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3116,8 +3116,8 @@
    "key": "drpy_js_libvio",
    "name": "影视 | libvio[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/libvio.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/libvio.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3126,8 +3126,8 @@
    "key": "drpy_js_tzfile",
    "name": "影视 | 团长影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/tzfile.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/tzfile.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3136,8 +3136,8 @@
    "key": "drpy_js_dydhhy",
    "name": "影视 | dydhhy[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/dydhhy.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/dydhhy.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3146,8 +3146,8 @@
    "key": "drpy_js_97tvs",
    "name": "影视 | 97tvs[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/97tvs.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/97tvs.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3156,8 +3156,8 @@
    "key": "drpy_js_rrdyw",
    "name": "影视 | rrdyw[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/rrdyw.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/rrdyw.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3166,8 +3166,8 @@
    "key": "drpy_js_meow",
    "name": "影视 | meow搜[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/meow.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/meow.js",
    "quickSearch": 1,
    "changeable": 1,
    "timeout": 30
@@ -3176,520 +3176,520 @@
    "key": "drpy_js_磁力熊[磁]",
    "name": "磁力 | 磁力熊[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/磁力熊[磁].js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/磁力熊[磁].js",
    "timeout": 30
   },
   {
    "key": "drpy_js_6V新版[磁]",
    "name": "磁力 | 6V新版[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/6V新版[磁].js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/6V新版[磁].js",
    "timeout": 30
   },
   {
    "key": "drpy_js_88看球",
    "name": "体育 | 88看球[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "changeable": 0,
    "style": {
     "type": "rect",
     "ratio": 1
    },
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/88看球.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/88看球.js"
   },
   {
    "key": "drpy_js_抓饭体育",
    "name": "体育 | 抓饭体育[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy.min.js",
    "changeable": 0,
    "style": {
     "type": "rect",
     "ratio": 1
    },
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/抓饭体育.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/抓饭体育.js"
   },
   {
    "key": "drpy_js_好趣网",
    "name": "电视 | 好趣网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "style": {
     "type": "rect",
     "ratio": 1.333
    },
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/好趣网.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/好趣网.js"
   },
   {
    "key": "drpy_js_评书随身听",
    "name": "评书 | 评书随身听[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/评书随身听.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/评书随身听.js"
   },
   {
    "key": "drpy_js_武享吧",
    "name": "格斗 | 武享吧[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/武享吧.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/武享吧.js"
   },
   {
    "key": "drpy_js_喵次元",
    "name": "影视 | 喵次元[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/喵次元.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/喵次元.js"
   },
   {
    "key": "drpy_js_广播迷FM",
    "name": "广播 | 广播迷FM[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/广播迷FM.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/广播迷FM.js"
   },
   {
    "key": "drpy_js_短视频",
    "name": "聚合 | 短视频[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "changeable": 0,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/短视频.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/短视频.js"
   },
   {
    "key": "drpy_js_爱看机器人",
    "name": "影视 | 爱看机器人[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/爱看机器人.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/爱看机器人.js"
   },
   {
    "key": "drpy_js_ikanbot2",
    "name": "影视 | 爱看机器人2[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/ikanbot2.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/ikanbot2.js"
   },
   {
    "key": "drpy_js_ikanbot3",
    "name": "影视 | 爱看机器人3[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/ikanbot3.js"
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/ikanbot3.js"
   },
   {
    "key": "drpy_js_139影视",
    "name": "影视 | 139影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/139影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/139影视.js"
   },
   {
    "key": "drpy_js_348电影网",
    "name": "影视 | 348电影网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/348电影网.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/348电影网.js"
   },
   {
    "key": "drpy_js_8号影院",
    "name": "影视 | 8号影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/8号影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/8号影院.js"
   },
   {
    "key": "drpy_js_JangoIndex",
    "name": "影视 | JangoIndex[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/JangoIndex.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/JangoIndex.js"
   },
   {
    "key": "drpy_js_NY影院",
    "name": "影视 | NY影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/NY影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/NY影院.js"
   },
   {
    "key": "drpy_js_被窝电影",
    "name": "影视 | 被窝电影[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/被窝电影.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/被窝电影.js"
   },
   {
    "key": "drpy_js_厂长资源",
    "name": "影视 | 厂长资源[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/厂长资源.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/厂长资源.js"
   },
   {
    "key": "drpy_js_楚门影院",
    "name": "影视 | 楚门影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/楚门影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/楚门影院.js"
   },
   {
    "key": "drpy_js_大米星球",
    "name": "影视 | 大米星球[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/大米星球.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/大米星球.js"
   },
   {
    "key": "drpy_js_飞兔影视",
    "name": "影视 | 飞兔影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/飞兔影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/飞兔影视.js"
   },
   {
    "key": "drpy_js_海兔影院",
    "name": "影视 | 海兔影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/海兔影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/海兔影院.js"
   },
   {
    "key": "drpy_js_花猫TV",
    "name": "影视 | 花猫TV[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/花猫TV.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/花猫TV.js"
   },
   {
    "key": "drpy_js_花屋影院",
    "name": "影视 | 花屋影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/花屋影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/花屋影院.js"
   },
   {
    "key": "drpy_js_开眼视频",
    "name": "影视 | 开眼视频[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/开眼视频.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/开眼视频.js"
   },
   {
    "key": "drpy_js_徕米TV",
    "name": "影视 | 徕米TV[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/徕米TV.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/徕米TV.js"
   },
   {
    "key": "drpy_js_乐鱼影视",
    "name": "影视 | 乐鱼影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/乐鱼影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/乐鱼影视.js"
   },
   {
    "key": "drpy_js_美剧网",
    "name": "影视 | 美剧网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/美剧网.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/美剧网.js"
   },
   {
    "key": "drpy_js_美视网",
    "name": "影视 | 美视网[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/美视网.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/美视网.js"
   },
   {
    "key": "drpy_js_米爱影视",
    "name": "影视 | 米爱影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/米爱影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/米爱影视.js"
   },
   {
    "key": "drpy_js_免费看",
    "name": "影视 | 免费看[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/免费看.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/免费看.js"
   },
   {
    "key": "drpy_js_奈飞中文",
    "name": "影视 | 奈飞中文[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/奈飞中文.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/奈飞中文.js"
   },
   {
    "key": "drpy_js_欧帝影院",
    "name": "影视 | 欧帝影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/欧帝影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/欧帝影院.js"
   },
   {
    "key": "drpy_js_皮皮鸭",
    "name": "影视 | 皮皮鸭[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/皮皮鸭.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/皮皮鸭.js"
   },
   {
    "key": "drpy_js_朴樱影视",
    "name": "影视 | 朴樱影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/朴樱影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/朴樱影视.js"
   },
   {
    "key": "drpy_js_秋霞影院",
    "name": "影视 | 秋霞影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/秋霞.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/秋霞.js"
   },
   {
    "key": "drpy_js_热播之家",
    "name": "影视 | 热播之家[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/热播之家.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/热播之家.js"
   },
   {
    "key": "drpy_js_人人影视",
    "name": "影视 | 人人影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/人人影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/人人影视.js"
   },
   {
    "key": "drpy_js_骚火电影",
    "name": "影视 | 骚火电影[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/骚火电影.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/骚火电影.js"
   },
   {
    "key": "drpy_js_时光影视",
    "name": "影视 | 时光影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/时光影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/时光影视.js"
   },
   {
    "key": "drpy_js_思古影视",
    "name": "影视 | 思古影视",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/思古影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/思古影视.js"
   },
   {
    "key": "drpy_js_私人影院",
    "name": "影视 | 私人影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/私人影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/私人影院.js"
   },
   {
    "key": "drpy_js_素白白",
    "name": "影视 | 素白白[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/素白白.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/素白白.js"
   },
   {
    "key": "drpy_js_网飞.TV",
    "name": "影视 | 网飞.TV[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/网飞.TV.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/网飞.TV.js"
   },
   {
    "key": "drpy_js_西瓜影院",
    "name": "影视 | 西瓜影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/西瓜影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/西瓜影院.js"
   },
   {
    "key": "drpy_js_蜥蜴影视",
    "name": "影视 | 蜥蜴影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/蜥蜴影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/蜥蜴影视.js"
   },
   {
    "key": "drpy_js_小狗影院",
    "name": "影视 | 小狗影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/小狗影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/小狗影院.js"
   },
   {
    "key": "drpy_js_新视觉影视",
    "name": "影视 | 新视觉影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/新视觉影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/新视觉影视.js"
   },
   {
    "key": "drpy_js_星辰影院",
    "name": "影视 | 星辰影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/星辰.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/星辰.js"
   },
   {
    "key": "drpy_js_玄天",
    "name": "影视 | 玄天[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/玄天.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/玄天.js"
   },
   {
    "key": "drpy_js_映迷影院",
    "name": "影视 | 映迷影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/映迷影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/映迷影院.js"
   },
   {
    "key": "drpy_js_中国人",
    "name": "影视 | 中国人[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/中国人.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/中国人.js"
   },
   {
    "key": "drpy_js_追剧迷",
    "name": "影视 | 追剧迷[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/追剧迷.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/追剧迷.js"
   },
   {
    "key": "drpy_js_子子影视",
    "name": "影视 | 子子影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/子子影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/子子影视.js"
   },
   {
    "key": "drpy_js_大师兄影视",
    "name": "起飞 | 大师兄影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/大师兄影视.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/大师兄影视.js"
   },
   {
    "key": "drpy_js_华乐影院",
    "name": "起飞 | 华乐影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/华乐影院[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/华乐影院[飞].js"
   },
   {
    "key": "drpy_js_天天视频",
    "name": "起飞 | 天天视频[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/天天视频[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/天天视频[飞].js"
   },
   {
    "key": "drpy_js_起飞影院",
    "name": "起飞 | 起飞影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/起飞影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/起飞影院.js"
   },
   {
    "key": "drpy_js_兰花影院",
    "name": "起飞 | 兰花影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/兰花影院.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/兰花影院.js"
   },
   {
    "key": "drpy_js_胖虎",
    "name": "起飞 | 胖虎[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/胖虎.js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/胖虎.js"
   },
   {
    "key": "drpy_js_555影视[飞]",
    "name": "起飞 | 555影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/555影视[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/555影视[飞].js"
   },
   {
    "key": "drpy_js_if101[飞]",
    "name": "起飞 | if101[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/if101[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/if101[飞].js"
   },
   {
    "key": "drpy_js_KUBO影视[飞]",
    "name": "起飞 | KUBO影视[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/KUBO影视[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/KUBO影视[飞].js"
   },
   {
    "key": "drpy_js_爱壹帆[飞]",
    "name": "起飞 | 爱壹帆[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/爱壹帆[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/爱壹帆[飞].js"
   },
   {
    "key": "drpy_js_独播库[飞]",
    "name": "起飞 | 独播库[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/独播库[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/独播库[飞].js"
   },
   {
    "key": "drpy_js_欧乐影院[飞]",
    "name": "起飞 | 欧乐影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/欧乐影院[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/欧乐影院[飞].js"
   },
   {
    "key": "drpy_js_小宝影院[飞]",
    "name": "起飞 | 小宝影院[js]",
    "type": 3,
-   "api": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
-   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/selfhost/gaotianliuyun_gao/master/js/小宝影院[飞].js"
+   "api": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/jasper151/TVY@main/selfhost/gaotianliuyun_gao/master/js/小宝影院[飞].js"
   }
  ],
  "parses": [
