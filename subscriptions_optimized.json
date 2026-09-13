@@ -1,8 +1,8 @@
 {
   "urls": [
     {
-      "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
-      "name": "🚀1-潇洒-自托管★(124站/你qist服务器)"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/jasper151/TVY/main/xiaosa_fixed.json",
+      "name": "🚀1-潇洒-自托管★(124站/已修正spider路径)"
     },
     {
       "url": "https://qist.wyfc.qzz.io/fty.json",
@@ -21,20 +21,16 @@
       "name": "🚀5-fmys(82站)"
     },
     {
-      "url": "http://550.3vcn.work/wdjyys.json",
-      "name": "🚀6-金鹰(106站)"
-    },
-    {
       "url": "https://tv.203511.xyz/0821.json",
-      "name": "🚀7-荐片(28站)"
+      "name": "🚀6-荐片(28站)"
     },
     {
       "url": "http://124.223.214.31:8/api.json",
-      "name": "🚀8-my interface(117站)"
+      "name": "🚀7-my interface(117站)"
     },
     {
       "url": "http://47.96.82.41:5188/api.json",
-      "name": "🚀9-软件内置源(90站)"
+      "name": "🚀8-软件内置源(90站)"
     }
   ]
 }
